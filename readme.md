@@ -1,0 +1,1 @@
+Simple Python 3 HTTP server for logging and echo all GET and POST and HEAD requests
